@@ -6,7 +6,7 @@ import os
 import subprocess
 import sys
 
-WINDOW_WIDTH = 400
+WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 700
 SUPPORTED_EXTENSIONS = ('.png', '.jpg', '.jpeg')
 IMAGE_SIZE = (150, 150)
